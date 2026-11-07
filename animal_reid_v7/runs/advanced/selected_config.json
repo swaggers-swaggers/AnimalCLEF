@@ -1,0 +1,19 @@
+{
+  "LynxID2025": {
+    "source": "trained",
+    "weight": 0.25,
+    "algorithm": "leiden",
+    "threshold": 0.30000000000000004,
+    "attach_threshold": 0.65
+  },
+  "SalamanderID2025": {
+    "source": "spot_1",
+    "weight": 0.5,
+    "algorithm": "leiden",
+    "threshold": 0.3500000000000001,
+    "attach_threshold": 0.97
+  },
+  "SeaTurtleID2022": {
+    "kind": "baseline"
+  }
+}

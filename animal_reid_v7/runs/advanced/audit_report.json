@@ -1,0 +1,230 @@
+{
+  "LynxID2025": {
+    "discovery": {
+      "baseline": {
+        "ari": 0.35342978231158856,
+        "ami": 0.5249860966026559,
+        "images": 173,
+        "true_identities": 20,
+        "predicted_clusters": 69,
+        "singleton_images": 26,
+        "largest_cluster": 8,
+        "true_positive_pairs": 193,
+        "false_merge_pairs": 37,
+        "missed_positive_pairs": 623,
+        "pair_precision": 0.8391304347826087,
+        "pair_recall": 0.23651960784313725,
+        "cross_orientation_positive_pairs": 471,
+        "cross_orientation_recovered_pairs": 30,
+        "cross_orientation_pair_recall": 0.06369426751592357
+      },
+      "selected": {
+        "ari": 0.3452486427900528,
+        "ami": 0.5065186999750585,
+        "images": 173,
+        "true_identities": 20,
+        "predicted_clusters": 52,
+        "singleton_images": 5,
+        "largest_cluster": 8,
+        "true_positive_pairs": 198,
+        "false_merge_pairs": 76,
+        "missed_positive_pairs": 618,
+        "pair_precision": 0.7226277372262774,
+        "pair_recall": 0.2426470588235294,
+        "cross_orientation_positive_pairs": 471,
+        "cross_orientation_recovered_pairs": 32,
+        "cross_orientation_pair_recall": 0.06794055201698514
+      }
+    },
+    "mixed": {
+      "baseline": {
+        "ari": 0.3232651976819488,
+        "ami": 0.4712915884832207,
+        "images": 133,
+        "true_identities": 20,
+        "predicted_clusters": 55,
+        "singleton_images": 23,
+        "largest_cluster": 8,
+        "true_positive_pairs": 119,
+        "false_merge_pairs": 56,
+        "missed_positive_pairs": 399,
+        "pair_precision": 0.68,
+        "pair_recall": 0.22972972972972974,
+        "cross_orientation_positive_pairs": 280,
+        "cross_orientation_recovered_pairs": 15,
+        "cross_orientation_pair_recall": 0.05357142857142857
+      },
+      "selected": {
+        "ari": 0.29793178773042756,
+        "ami": 0.4359974312715553,
+        "images": 133,
+        "true_identities": 20,
+        "predicted_clusters": 37,
+        "singleton_images": 4,
+        "largest_cluster": 9,
+        "true_positive_pairs": 128,
+        "false_merge_pairs": 139,
+        "missed_positive_pairs": 390,
+        "pair_precision": 0.4794007490636704,
+        "pair_recall": 0.2471042471042471,
+        "cross_orientation_positive_pairs": 280,
+        "cross_orientation_recovered_pairs": 27,
+        "cross_orientation_pair_recall": 0.09642857142857143
+      }
+    }
+  },
+  "SalamanderID2025": {
+    "discovery": {
+      "baseline": {
+        "ari": 0.4063738234424858,
+        "ami": 0.5491336002193918,
+        "images": 346,
+        "true_identities": 147,
+        "predicted_clusters": 250,
+        "singleton_images": 188,
+        "largest_cluster": 6,
+        "true_positive_pairs": 142,
+        "false_merge_pairs": 1,
+        "missed_positive_pairs": 410,
+        "pair_precision": 0.993006993006993,
+        "pair_recall": 0.2572463768115942,
+        "cross_orientation_positive_pairs": 284,
+        "cross_orientation_recovered_pairs": 2,
+        "cross_orientation_pair_recall": 0.007042253521126761
+      },
+      "selected": {
+        "ari": 0.6462021031104478,
+        "ami": 0.761888728563636,
+        "images": 346,
+        "true_identities": 147,
+        "predicted_clusters": 192,
+        "singleton_images": 116,
+        "largest_cluster": 7,
+        "true_positive_pairs": 273,
+        "false_merge_pairs": 17,
+        "missed_positive_pairs": 279,
+        "pair_precision": 0.9413793103448276,
+        "pair_recall": 0.4945652173913043,
+        "cross_orientation_positive_pairs": 284,
+        "cross_orientation_recovered_pairs": 20,
+        "cross_orientation_pair_recall": 0.07042253521126761
+      }
+    },
+    "mixed": {
+      "baseline": {
+        "ari": 0.4867155243921003,
+        "ami": 0.58481232281711,
+        "images": 273,
+        "true_identities": 147,
+        "predicted_clusters": 211,
+        "singleton_images": 167,
+        "largest_cluster": 5,
+        "true_positive_pairs": 85,
+        "false_merge_pairs": 1,
+        "missed_positive_pairs": 177,
+        "pair_precision": 0.9883720930232558,
+        "pair_recall": 0.3244274809160305,
+        "cross_orientation_positive_pairs": 120,
+        "cross_orientation_recovered_pairs": 2,
+        "cross_orientation_pair_recall": 0.016666666666666666
+      },
+      "selected": {
+        "ari": 0.7127606736085073,
+        "ami": 0.7888003688633748,
+        "images": 273,
+        "true_identities": 147,
+        "predicted_clusters": 173,
+        "singleton_images": 114,
+        "largest_cluster": 5,
+        "true_positive_pairs": 150,
+        "false_merge_pairs": 8,
+        "missed_positive_pairs": 112,
+        "pair_precision": 0.9493670886075949,
+        "pair_recall": 0.5725190839694656,
+        "cross_orientation_positive_pairs": 120,
+        "cross_orientation_recovered_pairs": 14,
+        "cross_orientation_pair_recall": 0.11666666666666667
+      }
+    }
+  },
+  "SeaTurtleID2022": {
+    "discovery": {
+      "baseline": {
+        "ari": 0.9194150646259547,
+        "ami": 0.9435179070396461,
+        "images": 1043,
+        "true_identities": 110,
+        "predicted_clusters": 145,
+        "singleton_images": 19,
+        "largest_cluster": 15,
+        "true_positive_pairs": 4348,
+        "false_merge_pairs": 154,
+        "missed_positive_pairs": 601,
+        "pair_precision": 0.965792980897379,
+        "pair_recall": 0.8785613255203071,
+        "cross_orientation_positive_pairs": 3576,
+        "cross_orientation_recovered_pairs": 3153,
+        "cross_orientation_pair_recall": 0.8817114093959731
+      },
+      "selected": {
+        "ari": 0.9194150646259547,
+        "ami": 0.9435179070396461,
+        "images": 1043,
+        "true_identities": 110,
+        "predicted_clusters": 145,
+        "singleton_images": 19,
+        "largest_cluster": 15,
+        "true_positive_pairs": 4348,
+        "false_merge_pairs": 154,
+        "missed_positive_pairs": 601,
+        "pair_precision": 0.965792980897379,
+        "pair_recall": 0.8785613255203071,
+        "cross_orientation_positive_pairs": 3576,
+        "cross_orientation_recovered_pairs": 3153,
+        "cross_orientation_pair_recall": 0.8817114093959731
+      }
+    },
+    "mixed": {
+      "baseline": {
+        "ari": 0.9047440013596288,
+        "ami": 0.9376204698866253,
+        "images": 781,
+        "true_identities": 110,
+        "predicted_clusters": 125,
+        "singleton_images": 12,
+        "largest_cluster": 18,
+        "true_positive_pairs": 2635,
+        "false_merge_pairs": 264,
+        "missed_positive_pairs": 285,
+        "pair_precision": 0.9089341152121421,
+        "pair_recall": 0.9023972602739726,
+        "cross_orientation_positive_pairs": 2070,
+        "cross_orientation_recovered_pairs": 1874,
+        "cross_orientation_pair_recall": 0.9053140096618357
+      },
+      "selected": {
+        "ari": 0.9047440013596288,
+        "ami": 0.9376204698866253,
+        "images": 781,
+        "true_identities": 110,
+        "predicted_clusters": 125,
+        "singleton_images": 12,
+        "largest_cluster": 18,
+        "true_positive_pairs": 2635,
+        "false_merge_pairs": 264,
+        "missed_positive_pairs": 285,
+        "pair_precision": 0.9089341152121421,
+        "pair_recall": 0.9023972602739726,
+        "cross_orientation_positive_pairs": 2070,
+        "cross_orientation_recovered_pairs": 1874,
+        "cross_orientation_pair_recall": 0.9053140096618357
+      }
+    }
+  },
+  "baseline_macro_ari": 0.5656572323022845,
+  "selected_macro_ari": 0.6377170455375032,
+  "delta": 0.0720598132352187,
+  "historically_seen_development_holdout": true,
+  "audit_used_for_v7_selection": false,
+  "official_ari": null
+}
